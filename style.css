@@ -1,11 +1,17 @@
-<style>
 	
 	.title {
 
 		font-family: helvetica;
 		alignment: center;
-		font-color: blue;
+		color: gray;
 
 }
 
-</style>
+	.format {
+
+		text-align:center;
+		max-width: 600px;
+		margin:auto;
+
+}
+	
